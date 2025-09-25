@@ -1,7 +1,7 @@
 # Hello, I am Luis Medina 👋
 
 🎓 Senior in Computer Science (B.S) - Graduating Winter 2026  
-💻 Aspiring Software Developer | Focused on Backend Development 
+💻 Aspiring Software Developer | Focused on Backend Development
 📌 Actively seeking internship opportunities in Software Engineering & Development  
 
 ---
