@@ -1,7 +1,7 @@
 # Hello, I am Luis Medina 👋
 
 🎓 Senior in Computer Science (B.S) - Graduating Winter 2026  
-💻 Aspiring Software Developer | Focused on Backend Development
+💻 Aspiring Software Developer | Focused on Backend Development  
 📌 Actively seeking internship opportunities in Software Engineering & Development  
 
 ---
@@ -23,7 +23,7 @@ Here are some of the projects I’m most proud of:
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, JavaScript, C++, C#, HTML, CSS 
 **Frameworks & Libraries:** Node.js, Express  
-**Databases:** PostGreeSQL  
+**Databases:** PostgreeSQL  
 **Tools:** Git, GitHub, VS Code, Visual Studio, Postman, Docker 
 
 ---
@@ -38,4 +38,3 @@ Here are some of the projects I’m most proud of:
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-link)  
 - [Email](mailto:lcesarmda@gmail.com)  
-- [GitHub](https://github.com/LCMedi)
